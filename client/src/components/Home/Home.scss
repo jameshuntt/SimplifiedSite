@@ -1,0 +1,46 @@
+.home-container {
+    font-family: 'Merriweather';
+    font-size: 3vw;
+    height: 200vh;
+    width: 100vw;
+    z-index: 0;
+    overflow-x: hidden;
+}
+
+.home-header {
+    height: 30vh;
+    width: 55vw;
+    padding-top: 30vh;
+    margin-left: 22.5vw;
+    text-align: center;
+    color: rgb(99, 97, 97);
+    z-index: inherit;
+}
+
+.bottom-home-screen {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20vh;
+}
+
+.servers {
+    height: 40vh;
+    padding-top: 10vh;
+}
+
+.image1 {
+    width: 40vw;
+}
+
+.home-button {
+    width: 20vw;
+    padding-top: 25vh;
+}
+
+.image2 {
+    width: 40vw;
+}
+
+.computer-guy {
+    height: 55vh;
+}
